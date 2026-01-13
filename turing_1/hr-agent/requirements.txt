@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+httpx
+python-dotenv
+pytest
+chromadb
+sentence-transformers
+torch
+transformers
